@@ -2,7 +2,7 @@
 Get hints for each letter in the last name game.
 
 ## Source
-* [`index.php`](https://github.com/ehsan-shahbakhsh/api-cheat-family-name-game/blob/main/example/index.php)
+* [`index.php`](https://github.com/ehsan-shahbakhsh/api-cheat-family-name-game/blob/main/index.php)
 
 ## How to use
 ```
